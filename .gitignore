@@ -1,0 +1,12 @@
+node_modules/
+dist/
+output/*
+!output/.gitkeep
+server/output/*
+AGENTS.md
+PROJECT_STATUS.md
+TODO.md
+*.log
+.env
+.DS_Store
+Thumbs.db
